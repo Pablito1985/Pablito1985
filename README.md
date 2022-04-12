@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pablito1985
-- 👀 I’m interested in Cybersecurity.
+- 👀 I’m interested in Finance and Cybersecurity.
 - 🌱 I’m currently learning Linux, Windows Server, Pentesting.
 - 💞️ I’m looking to collaborate on projects related to cybersecurity.
 - 📫 How to reach me via Github.
